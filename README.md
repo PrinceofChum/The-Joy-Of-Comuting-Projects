@@ -3,6 +3,6 @@ I'm doing The Joy Of Computing Using Python course in SWAYAM. I post the assignm
 
 **Week 1**
 
-  -Introduction to Programming
+    -Introduction to Programming
   
 **Week 2**
